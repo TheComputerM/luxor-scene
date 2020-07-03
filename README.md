@@ -1,4 +1,5 @@
 # Sample scene in Luxor.jl
 
-Beach Scene
+# Beach Scene
+
 ![Demo](demo.png)
